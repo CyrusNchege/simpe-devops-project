@@ -1,2 +1,2 @@
-# simpe-devops-project
+# simple-devops-project
 This a simple devops project
