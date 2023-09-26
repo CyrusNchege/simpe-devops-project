@@ -1,2 +1,6 @@
-# simple-devops-project
-This a simple devops project
+# Docker Flask application
+
+- Flask application with Docker
+- Deployed on GKE (Google Kubernetes Engine)
+
+
